@@ -13,6 +13,7 @@
 # 4. 調査結果
 調査結果の詳細については，2019年3月30日に行われたDeep Learning Dayにおけるポスター発表資料（dlb2018_poster.pdf）をご参照下さい．
 
+- Preview
 ![comment](https://github.com/fpocket-2017/dlb2018/wiki/images/DLB2018_team8_v3.001.jpeg)
 
 # 5. 結論
